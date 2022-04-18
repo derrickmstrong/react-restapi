@@ -1,4 +1,4 @@
-## Hotplate - React w/Webpack, Babel
+## React + RestAPI
 
 In the project directory, you can run:
 
